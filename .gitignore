@@ -1,0 +1,8 @@
+*.json
+*.pdf
+*.vscode
+*.ods
+**/.vscode
+**/.venv
+**/.ipynb_checkpoints
+*.pyc
