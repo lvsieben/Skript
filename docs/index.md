@@ -9,7 +9,7 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 
 | Datum | Thema |
 | ----- | ----- |
-| 22/08/2023 | [Systemeinrichtung](.230822/01_grundeinrichtung.md) |         
+| 22/08/2023 | [Systemeinrichtung](230822/01_grundeinrichtung.md) |         
 | 29/08/2023 | Variablen	      |             
 | 05/09/2023 | Einfache Funktionen |	       
 | 12/09/2023 | Datentypen in Python	|       
