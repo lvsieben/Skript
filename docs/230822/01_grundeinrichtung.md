@@ -98,7 +98,7 @@ bringen.
 4. Suchen Sie nach dem [Repositoriy I_gW_23-27/Skript](https://github.com/I-gW-23-27/Skript).
 5. Klicken Sie oben rechts den mittleren Button ("Fork")
    
-   ![Fork](./images/fork.png)
+   ![Fork](../images/fork.png)
 
 6. Auf der folgenden Seite übernehmen Sie die Standardeinstellungen und
    klicken Sie unten den grünen Button "Create fork"
@@ -123,7 +123,7 @@ bringen.
 2.   Klicken Sie auf den grünen Button "Code".
 3.  Wählen Sie im Drop Down Menü "HTTPS".
 
-    ![GitHub Clone](./images/GitHub_HTTPS.png)
+    ![GitHub Clone](../images/GitHub_HTTPS.png)
 
     Kopieren Sie mit dem Symbol den dortigen Link.
 4.  Wechseln Sie zurück ins Terminalfenster und geben Sie dort den
@@ -137,7 +137,7 @@ bringen.
    
     Im folgenden Menü wählen Sie "Mit Code öffnen".
 
-    ![VSCode](./images/VSCode.png)
+    ![VSCode](../images/VSCode.png)
 
 
 15. Im Ordner Informatik öffnen Sie den neuen Ordner "I_gW_23-27" in VS Code.
