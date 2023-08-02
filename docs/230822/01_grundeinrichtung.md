@@ -145,4 +145,4 @@ bringen.
     öffnen. Anschliessend können Sie den Anweisungen im Notebook folgen.
 
 
-Hier geht es zurück zur [Übersicht](index.md).
+Hier geht es zurück zur [Übersicht](../index.md).
