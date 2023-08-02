@@ -8,8 +8,8 @@ Ihr System vom Terminal aus zu warten.
 ## Installation der erforderlichen Software
 
 1. Öffnen Sie Windows PowerShell als Administrator (Windows Taste
-   drücken, PowerShell eingeben, als Administrator ausführen klicken,
-   die Frage "Möchten Sie zulassen, dass durch diese App Äderungen an
+   drücken, PowerShell eingeben, "als Administrator ausführen" klicken,
+   die Frage "Möchten Sie zulassen, dass durch diese App Änderungen an
    Ihrem Gerät vorgenommen werden?" mit Ja beantworten)
 2. Im sich öffnenden Fenster den Befehl `Get-ExecutionPolicy` mit der
    Tastatur eingeben und mit Enter bestätigen.
@@ -26,7 +26,7 @@ Ihr System vom Terminal aus zu warten.
    Rechtsklick im Fenster. Den eingefügten Befehl durch Enter
    bestätigen.
    
-   Die Ausführung dieses Befehls dauert ein Moment.
+   Die Ausführung dieses Befehls dauert einen Moment.
 4. Wenn keine Fehlermeldungen ausgegeben werden, kann Python mit dem
    Befehl
    ```
@@ -37,16 +37,16 @@ Ihr System vom Terminal aus zu warten.
    werden, wo das Programm zu finden ist. Dazu müssen die
    Umgebungsvariabeln angepasst werden. Um das zu tun, drücken Sie die
    Windows-Taste und geben "Umgebungsvariablen" ein. Im sich öffnenden
-   Fenster scrollen Sie in der oberen Liste (Benutzervaribalen für ...)
+   Fenster scrollen Sie in der oberen Liste (Benutzervariablen für ...)
    bis zum Eintrag "Path". Wählen Sie diesen Eintrag aus und klicken Sie
    "Bearbeiten". Wählen Sie "Neu" und geben auf dieser Zeile
-   `C:\ProgramData\chocolatey\bin` ein. Bestätigen Sie mit zwei Mal
+   `C:\ProgramData\chocolatey\bin` ein. Bestätigen Sie zwei Mal mit
    "OK".
 6. Kontrollieren Sie, ob Python installiert worden ist, in dem Sie in
    der PowerShell `python` eingeben. Sie sollten eine Zeile sehen, die
    mit `>>>` beginnt.
 
-   Traditionellerweise wird ist das erste Programm, das in einer neu
+   Traditionellerweise ist das erste Programm, das in einer neu
    installierten Umgebung geschrieben wird, ein sogenanntes "Hello
    World!". In Python gibt man dazu
    ```python
@@ -61,14 +61,14 @@ Ihr System vom Terminal aus zu warten.
    Allerdings ist das nicht sehr komfortabel. Daher installieren wir
    noch ein paar zusätzliche Programme.
 
-7. Installieren Sie Visual Studio Code in dem Sie
+7. Installieren Sie Visual Studio Code, indem Sie
    ```
    choco install vscode
    ```
    in der PowerShell eingeben.
 
 8.  Installieren Sie die Jupyter-Notebook extension für Visual Studio
-    Code in dem Sie
+    Code, indem Sie
     ```
     choco install vscode-jupyter
     ```
@@ -76,12 +76,12 @@ Ihr System vom Terminal aus zu warten.
     eingeben.
 
 9.  Für die Zusammenarbeit in der Klasse brauchen Sie noch die
-    Versionsverwaltungssoftware git. Der Befehl dazu lautet
+    Versionsverwaltungssoftware "git". Der Befehl dazu lautet
     ```
     choco install git.install
     ```
    
-Sie können mit dem Befehl `choco install ...` weiter Software
+Sie können mit dem Befehl `choco install ...` weitere Software
 installieren. Verfügbare Software finden Sie auf der Website von
 [chocolatey](https://chocolatey.org/). Bereits installierte Software
 können Sie mit dem Befehl `choco upgrade all` auf den aktuellen Stand
@@ -89,13 +89,13 @@ bringen.
 
 ## Laden des ersten Jupyter Notebooks
 
-1. Erstellen Sie in Ihrer Dateistruktur unterhalb des Ordner Schule
+1. Erstellen Sie in Ihrer Dateistruktur unterhalb des Ordners "Schule"
    (oder KBW oder wie Ihr Schulordner auch immer benannt ist) einen
    Ordner mit dem Namen "Informatik".
 
 2. Gehen Sie zur Website von GitHub (github.com).
 3. Erstellen Sie einen Account mit Ihrer Schul-Email.
-4. Suchen Sie nach dem [Repositoriy I_gW_23-27](https://github.com/VorlagenMk/230708_testrepo).
+4. Suchen Sie nach dem [Repositoriy I_gW_23-27/Skript](https://github.com/I-gW-23-27/Skript).
 5. Klicken Sie oben rechts den mittleren Button ("Fork")
    
    ![Fork](./images/fork.png)
@@ -119,7 +119,7 @@ bringen.
    Ersetzen Sie dabei John Doe mit dem von Ihnen gewählten GitHub User
    Namen und johndoe@example.com durch Ihre KBW Mail-Adresse.
 
-1.  Wechseln Sie auf die Website von GitHub in das Repositoriy "I_gW_23-27".
+1.  Wechseln Sie auf die Website von GitHub in das Repositoriy "I_gW_23-27/Skript".
 2.   Klicken Sie auf den grünen Button "Code".
 3.  Wählen Sie im Drop Down Menü "HTTPS".
 
@@ -133,7 +133,7 @@ bringen.
 5.  Schliessen Sie das Terminalfenster.
 6.  Öffnen Sie im Windows Explorer den Ordner Informatik. Klicken Sie
     den Ordner "I_gW_23-27" mit der rechten Maustaste an.
-    Wählen Sie im Kontextmenü "Weitere Optionen Anzeigen".
+    Wählen Sie im Kontextmenü "Weitere Optionen anzeigen".
    
     Im folgenden Menü wählen Sie "Mit Code öffnen".
 
