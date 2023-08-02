@@ -11,7 +11,7 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 | ----- | ----- |
 | 22/08/2023 | [Systemeinrichtung](01_grundeinrichtung.md) |         
 | 29/08/2023 | Variablen	      |             
-| 05/09/2023 | einfache Funktionen |	       
+| 05/09/2023 | Einfache Funktionen |	       
 | 12/09/2023 | Datentypen in Python	|       
 | 19/09/2023 | Einführung PyTamaro	 |      
 | 26/09/2023 | Listen und Iteratoren (for - loop) |	
@@ -30,4 +30,4 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 
 Die Note wird aus dem Durchschnitt der beiden schriftlichen Prüfungen
 sowie der Benotung der mündlichen Beteiligung berechnet. Der
-Durchschnitt der Prüfungen zählt zu 90% die mündliche Beteiligung zu 10%.
+Durchschnitt der Prüfungen zählt zu 90%, die mündliche Beteiligung zu 10%.
