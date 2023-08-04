@@ -1,8 +1,8 @@
 # Variablen in Python
 
 Alle Materialien und Übungen zur heutigen Lektion finden sich im
-[Jupyternotebook zum Thema Variablen in
-Python](docs/230829/02_variablen.ipynb).
+[Jupyternotebook](02_variablen.ipynb)
+zum Thema Variablen in Python.
 
 Alternativ kann das Notebook auch online in
 [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
