@@ -10,7 +10,7 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 | Datum | Thema |
 | ----- | ----- |
 | 22/08/2023 | [Systemeinrichtung](230822/01_grundeinrichtung.md) |         
-| 29/08/2023 | [Variablen]([230829/02_variablen.ipynb](https://nbviewer.org/github/I-gW-23-27/Skript/blob/main/docs/230829/02_variablen.ipynb))	      |             
+| 29/08/2023 | [Variablen](https://nbviewer.org/github/I-gW-23-27/Skript/blob/main/docs/230829/02_variablen.ipynb)	      |             
 | 05/09/2023 | Einfache Funktionen |	       
 | 12/09/2023 | Datentypen in Python	|       
 | 19/09/2023 | Einführung PyTamaro	 |      
