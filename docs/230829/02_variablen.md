@@ -2,9 +2,9 @@
 
 Alle Materialien und Übungen zur heutigen Lektion finden sich im
 [Jupyternotebook zum Thema Variablen in
-Python](https://nbviewer.org/github/I-gW-23-27/Skript/blob/main/docs/230829/02_variablen.ipynb).
+Python](02_variablen.ipynb).
 
-Alternativ kann das Notebook auch in
+Alternativ kann das Notebook auch online in
 [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
 geöffnet werden - dies erfordert allerdings einen Google Account. In
 Google Colab wählen Sie das Menü Datei > Notebook öffnen. Im sich
