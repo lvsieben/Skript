@@ -11,10 +11,10 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 | ----- | ----- |
 | 22/08/2023 | [Systemeinrichtung](230822/01_grundeinrichtung.md) |         
 | 29/08/2023 | [Variablen](230829/02_variablen.md)	      |             
-| 05/09/2023 | Einfache Funktionen |	       
-| 12/09/2023 | Datentypen in Python	|       
-| 19/09/2023 | Einführung PyTamaro	 |      
-| 26/09/2023 | Listen und Iteratoren (for - loop) |	
+| 05/09/2023 | Einführung PyTamaro |	       
+| 12/09/2023 | Einfache Funktionen	|       
+| 19/09/2023 | Listen	 |      
+| 26/09/2023 | Schleifen |	
 | 24/10/2023 | Refactoring	               |
 | 31/10/2023 | Test "Einführung Informatik" |
 | 07/11/2023 | Bedingte Verzweigungen	   |
