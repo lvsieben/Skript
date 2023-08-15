@@ -1,7 +1,7 @@
 # Variablen in Python
 
 Alle Materialien und Übungen zur heutigen Lektion finden sich im
-[Jupyternotebook](Variablen.ipynb)
+[Jupyternotebook](https://nbviewer.org/github/I-gW-23-27/Skript/blob/main/docs/230829/Variablen.ipynb)
 zum Thema Variablen in Python.
 
 Alternativ kann das Notebook auch online in
