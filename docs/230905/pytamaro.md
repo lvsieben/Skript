@@ -71,5 +71,5 @@ PyTamaro zur Verfügung.
 
 ## PyTamaro in Action
 
-[Hier finden Sie eine Anwendungsübung](./pytamaro.ipynb)
+[Hier finden Sie eine Anwendungsübung]([./pytamaro.ipynb](https://nbviewer.org/github/I-gW-23-27/Skript/blob/main/docs/230905/pytamaro.ipynb))
 für PyTamaro.
