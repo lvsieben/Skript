@@ -8,7 +8,7 @@ Alternativ kann das Notebook auch online in
 [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
 geöffnet werden - dies erfordert zum Speichern der Datei allerdings
 einen Google Account. In
-Google Colab wählen Sie das Menü Datei > Notebook öffnen. Im sich
+Google Colab wählen Sie das Menü "Datei > Notebook öffnen". Im sich
 öffnenden Fenster wählen Sie GitHub und füllen die Angaben gemäss
 folgendem Sreenshot aus.
 
